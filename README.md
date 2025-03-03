@@ -3,10 +3,7 @@
 ## Course Project: BGP Scenario - Multi-AS Topology with Policy-Based Traffic Engineering
 
 ### Prepared by:
-**Momen Assaf** (1191529)
-
-### Instructor:
-**Dr. Imad Tartir**
+**Momen Assaf**
 
 ### Date:
 13-01-2025
@@ -109,6 +106,3 @@ The topology follows the requested specifications:
 ## Conclusion
 The BGP-based multi-AS topology was successfully implemented with redundancy mechanisms ensuring continued network operation in case of failures. The results validate the effectiveness of policy-based traffic engineering in multi-AS environments.
 
----
-
-**Note:** Ensure that the images are placed in the `images/` directory relative to this README file.
